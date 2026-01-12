@@ -34,8 +34,8 @@ npm install
 npm run dev
 
 # Open http://localhost:3000
-\`\`\`
-#Live Demo :https://legal-document-editor-iota.vercel.app/
+
+# Live demo : https://legal-document-editor-iota.vercel.app/
 ## 🎯 Approach to Pagination
 
 ### Challenge
